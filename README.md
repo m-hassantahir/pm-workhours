@@ -1,9 +1,11 @@
 # pm-workhours
-Portfolio Description: Power BI Dashboards for Project Performance and Work Hours Analysis
+Power BI Dashboards for Project Performance and Work Hours Analysis
 
+PROJECT DESCRIPTION:
 
 The client sought a solution to effectively track project performance and manage working hours, specifically focusing on monitoring estimated versus actual hours with dynamic filtering for detailed analysis. The project data, managed in Primavera and Excel, was provided in a wide-format Excel workbook. My role was to design and implement interactive Power BI dashboards that could showcase performance scenarios and be easily updated weekly with revised data.![image](https://github.com/user-attachments/assets/6ba62266-3f7c-43bb-be61-8be30071c409)
 
+STEP BY STEP PROCESS
 
 To prepare the wide-format data for Power BI, two approaches were explored:
 1.	Unpivoting Data: The wide-format data was converted into a long-format structure using Power Query, with each row representing a date, task/phase, and its value. This transformation enabled the creation of dynamic visualizations like line charts for tracking progress and matrix tables for comparing planned versus actual metrics. Filters, slicers, and calculated measures were added for detailed performance analysis.
