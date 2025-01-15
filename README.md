@@ -22,7 +22,8 @@ Two dashboards were developed to meet the client’s requirements:
 
   
 3.	Work Hours and Employee Analysis Dashboard: This dashboard included a line chart showing dates on the x-axis and the sum of hours on the y-axis. Additional cards displayed the number of employees in a category and their average sell rate. Three slicers were included for enhanced interactivity: one for company (four companies in total), one for the scope of work, and one for dates (with year, quarter, and month filters).
-![image](https://github.com/user-attachments/assets/812ca6d4-7150-452a-9b8d-f898956904d3)
+![image](https://github.com/user-attachments/assets/72393993-6f87-4d86-9fab-3c5d99e2ebac)
+
 
 
 
