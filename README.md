@@ -8,8 +8,8 @@ The client sought a solution to effectively track project performance and manage
 STEP BY STEP PROCESS
 
 To prepare the wide-format data for Power BI, two approaches were explored:
-1.	Unpivoting Data: The wide-format data was converted into a long-format structure using Power Query, with each row representing a date, task/phase, and its value. This transformation enabled the creation of dynamic visualizations like line charts for tracking progress and matrix tables for comparing planned versus actual metrics. Filters, slicers, and calculated measures were added for detailed performance analysis.
-2.	Transposing Data: Another method involved dividing the Excel data into smaller logical tables by tasks or phases, transposing the data to have dates in rows and values in columns, and cleaning it for consistency. These tables were linked using the dates column as a primary key, enabling seamless analysis.
+1.	Unpivoting Data: The wide-format data was to be converted into a long-format structure using Power Query, with each row representing a date, task/phase, and its value. This transformation could enable the creation of dynamic visualizations like line charts for tracking progress and matrix tables for comparing planned versus actual metrics. Filters, slicers, and calculated measures were to be added for detailed performance analysis.
+2.	Transposing Data: Another method involved dividing the Excel data into smaller logical tables by tasks or phases, transposing the data to have dates in rows and values in columns, and cleaning it for consistency. These tables were linked using the dates column as a primary key, enabling seamless analysis. [I opted this approach}
 
 ![image](https://github.com/user-attachments/assets/e08fb521-00f4-4de7-b3c1-7b9738b7842e)
 
